@@ -17,7 +17,7 @@ SMART PEOPLE
 [YT 2020.05: The Stock Market or The Economy: Which Is Right?](https://youtu.be/rxwSPfWMzew)<br>
 [YT 2015: Interview with Carl Icahn](https://youtu.be/GsN0WVLjpcs)<br>
 [Andrei Jikh 2020.04.24:  MASSIVE CRASH AHEAD | How To Invest Now](https://www.youtube.com/watch?v=92wenJfjBDY&feature=youtu.be)<br>
-[]()<br>
+[Andrei Jikh 2020.05.11: The Stock Market Is About To Explode - Fed Negative Interest Rates](https://www.youtube.com/watch?v=NC6DTvdplOs)<br>
 []()<br>
 []()<br>
 
