@@ -23,8 +23,8 @@ SMART PEOPLE
 [7 Best Stocks For Passive Income (On Robinhood)](https://www.youtube.com/watch?v=PUQsxWDhNyc)<br>
 [5/27/2020 Reuters: U.S. mortgage applications rise for sixth straight week](https://www.reuters.com/article/us-usa-economy-housing-idUSKBN2331IX)<br>
 
-    U.S. applications for home mortgages jumped last week, in a sixth straight weekly increase, <br>
-    suggesting the housing market could lead the economy’s recovery from the novel coronavirus crisis <br>
+    U.S. applications for home mortgages jumped last week, in a sixth straight weekly increase, </br>
+    suggesting the housing market could lead the economy’s recovery from the novel coronavirus crisis 
     even as high unemployment is expected to linger.
 
     The Mortgage Bankers Association (MBA) said on Wednesday its seasonally adjusted Purchase Index <br>
