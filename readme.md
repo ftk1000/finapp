@@ -44,7 +44,7 @@ SMART PEOPLE
     and was 9% higher compared to the same week a year ago. It was the sixth consecutive weekly gain 
     and a 54% surge since early April.
 
-[]()<br>
+[2020.06.03: Investors.com: Dow Jones Surges 500 Points As Stocks Rally Despite Jobs Data, Coronavirus, Protests](https://www.investors.com/market-trend/stock-market-today/dow-jones-surges-400-points-stock-market-rallies-nasdaq-nears-record-high/)<br>
 []()<br>
 []()<br>
 
