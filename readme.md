@@ -21,7 +21,12 @@ SMART PEOPLE
 [Andrei Jikh 2020.04.24:  MASSIVE CRASH AHEAD | How To Invest Now](https://www.youtube.com/watch?v=92wenJfjBDY&feature=youtu.be)<br>
 [Andrei Jikh 2020.05.11: The Stock Market Is About To Explode - Fed Negative Interest Rates](https://www.youtube.com/watch?v=NC6DTvdplOs)<br>
 [7 Best Stocks For Passive Income (On Robinhood)](https://www.youtube.com/watch?v=PUQsxWDhNyc)<br>
-[]()<br>
+[5/27/2020 Reuters: U.S. mortgage applications rise for sixth straight week](https://www.reuters.com/article/us-usa-economy-housing-idUSKBN2331IX)<br>
+
+    U.S. applications for home mortgages jumped last week, in a sixth straight weekly increase, suggesting the housing market could lead the economy’s recovery from the novel coronavirus crisis even as high unemployment is expected to linger.
+
+    The Mortgage Bankers Association (MBA) said on Wednesday its seasonally adjusted Purchase Index increased 8.6% from a week earlier. On an unadjusted basis, the index rose 7.4% from the prior week and was 9% higher compared to the same week a year ago. It was the sixth consecutive weekly gain and a 54% surge since early April.
+
 []()<br>
 []()<br>
 []()<br>
