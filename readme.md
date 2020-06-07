@@ -10,14 +10,19 @@ push an existing repository from the command line
 [Treasury Direct](https://www.treasurydirect.gov/indiv/indiv.htm)<br>
 []()<br>
 []()<br>
-[]()<br>
+[GOLD ETFs: ](https://www.investopedia.com/articles/etfs/top-gold-etfs/)<br>
 
 SMART PEOPLE
 
 [YT 2020.05: The Stock Market or The Economy: Which Is Right?](https://youtu.be/rxwSPfWMzew)<br>
 [YT 2015: Interview with Carl Icahn](https://youtu.be/GsN0WVLjpcs)<br>
+[Andrei Jikh 2020.02.21: How To Become A Millionaire In ONE Year (My Plan)](https://www.youtube.com/watch?v=IoOgnnX_p10)<br>
+[Andrei Jikh 2020.02.28: How NOT To Invest - Advice for Beginners](https://www.youtube.com/watch?v=uB6guymgX3w)<br>
 [Andrei Jikh 2020.04.24:  MASSIVE CRASH AHEAD | How To Invest Now](https://www.youtube.com/watch?v=92wenJfjBDY&feature=youtu.be)<br>
 [Andrei Jikh 2020.05.11: The Stock Market Is About To Explode - Fed Negative Interest Rates](https://www.youtube.com/watch?v=NC6DTvdplOs)<br>
+[7 Best Stocks For Passive Income (On Robinhood)](https://www.youtube.com/watch?v=PUQsxWDhNyc)<br>
+[]()<br>
+[]()<br>
 []()<br>
 []()<br>
 
