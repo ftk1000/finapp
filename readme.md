@@ -14,6 +14,9 @@ Andrei Jikh
 [Andrei Jikh 2020.06.01: 7 Best Stocks For Passive Income (On Robinhood)](https://www.youtube.com/watch?v=PUQsxWDhNyc)<br>
 [Andrei Jikh 2020.06.05: Lost 200k in bitcoins](https://www.youtube.com/watch?v=6rXwXZ7vBzw)<br>
 
+
+[https://data.bls.gov/cgi-bin/cpicalc.pl](https://data.bls.gov/cgi-bin/cpicalc.pl)<br>
+
 [yahoo pointer](https://finance.yahoo.com/quotes/VOO,XOM,VDE/view/v1)<br>
 [U.S. BUREAU OF LABOR STATISTICS](https://www.bls.gov/data/#productivity)<br>
 [US Dept of Labor](https://search.usa.gov/search?utf8=%E2%9C%93&affiliate=www.dol.gov&query=unemployment+stats)<br>
