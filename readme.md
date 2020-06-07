@@ -7,12 +7,12 @@ Andrei Jikh
 
 [Andrei Jikh 2020.02.21: How To Become A Millionaire In ONE Year (My Plan)](https://www.youtube.com/watch?v=IoOgnnX_p10)<br>
 [Andrei Jikh 2020.02.28: How NOT To Invest - Advice for Beginners](https://www.youtube.com/watch?v=uB6guymgX3w)<br>
+[Andrei Jikh 2020.03.30: how to invest in gold])(https://www.youtube.com/watch?v=y6o6B0QkHbI)<br>
 [Andrei Jikh 2020.04.24:  MASSIVE CRASH AHEAD | How To Invest Now](https://www.youtube.com/watch?v=92wenJfjBDY&feature=youtu.be)<br>
 [Andrei Jikh 2020.05.04: Are Dividends Going Away? (Passive Income Update!)](https://www.youtube.com/watch?v=AynS46MX3z8)<<br>
 [Andrei Jikh 2020.05.11: The Stock Market Is About To Explode - Fed Negative Interest Rates](https://www.youtube.com/watch?v=NC6DTvdplOs)<br>
 [Andrei Jikh 2020.06.01: 7 Best Stocks For Passive Income (On Robinhood)](https://www.youtube.com/watch?v=PUQsxWDhNyc)<br>
-[Andrei Jikh 2020.06.05: ](https://www.youtube.com/watch?v=6rXwXZ7vBzw)<br>
-
+[Andrei Jikh 2020.06.05: Lost 200k in bitcoins](https://www.youtube.com/watch?v=6rXwXZ7vBzw)<br>
 
 [yahoo pointer](https://finance.yahoo.com/quotes/VOO,XOM,VDE/view/v1)<br>
 [U.S. BUREAU OF LABOR STATISTICS](https://www.bls.gov/data/#productivity)<br>
