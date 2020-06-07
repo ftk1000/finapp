@@ -5,6 +5,7 @@ push an existing repository from the command line
 
 Andrei Jikh 
 
+[https://www.simplysafedividends.com/](https://www.simplysafedividends.com/)<br>
 [2020:01.02: businessinsider: $100,000 in his first year from YouTube](https://www.businessinsider.com/how-much-money-youtube-pays-creators-views-per-month-year-2019-12)<br>
 
 [Andrei Jikh 2020.02.21: How To Become A Millionaire In ONE Year (My Plan)](https://www.youtube.com/watch?v=IoOgnnX_p10)<br>
