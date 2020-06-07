@@ -46,7 +46,7 @@ SMART PEOPLE
 
 [2020.06.03: Investors.com: Dow Jones Surges 500 Points As Stocks Rally Despite Jobs Data, Coronavirus, Protests](https://www.investors.com/market-trend/stock-market-today/dow-jones-surges-400-points-stock-market-rallies-nasdaq-nears-record-high/)<br>
 []()<br>
-[]()<br>
+[Ralph C. Merkle patent US4309569A](https://patentimages.storage.googleapis.com/69/ab/d9/2ff9f94fada6ea/US4309569.pdf)<br>
 
 
 
