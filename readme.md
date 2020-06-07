@@ -5,6 +5,8 @@ push an existing repository from the command line
 
 Andrei Jikh 
 
+[2020:01.02: businessinsider: $100,000 in his first year from YouTube](https://www.businessinsider.com/how-much-money-youtube-pays-creators-views-per-month-year-2019-12)<br>
+
 [Andrei Jikh 2020.02.21: How To Become A Millionaire In ONE Year (My Plan)](https://www.youtube.com/watch?v=IoOgnnX_p10)<br>
 [Andrei Jikh 2020.02.28: How NOT To Invest - Advice for Beginners](https://www.youtube.com/watch?v=uB6guymgX3w)<br>
 [Andrei Jikh 2020.03.30: how to invest in gold])(https://www.youtube.com/watch?v=y6o6B0QkHbI)<br>
