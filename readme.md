@@ -24,9 +24,9 @@ Andrei Jikh
 [Andrei Jikh 2020.04.24:  MASSIVE CRASH AHEAD | How To Invest Now](https://www.youtube.com/watch?v=92wenJfjBDY&feature=youtu.be)<br>
 [Andrei Jikh 2020.05.04: Are Dividends Going Away? (Passive Income Update!)](https://www.youtube.com/watch?v=AynS46MX3z8)<<br>
 [Andrei Jikh 2020.05.11: The Stock Market Is About To Explode - Fed Negative Interest Rates](https://www.youtube.com/watch?v=NC6DTvdplOs)<br>
+[Andrei Jikh 2020.06.01: 7 Best Stocks For Passive Income (On Robinhood)](https://www.youtube.com/watch?v=PUQsxWDhNyc)<br>
 
 
-[7 Best Stocks For Passive Income (On Robinhood)](https://www.youtube.com/watch?v=PUQsxWDhNyc)<br>
 [5/27/2020 Reuters: U.S. mortgage applications rise for sixth straight week](https://www.reuters.com/article/us-usa-economy-housing-idUSKBN2331IX)<br>
 
     U.S. applications for home mortgages jumped last week, in a sixth straight weekly increase, 
