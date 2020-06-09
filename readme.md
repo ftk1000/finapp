@@ -51,6 +51,6 @@ SMART PEOPLE
 
 [2019,10: The Bitcoin Standard | Saifedean Ammous](https://www.youtube.com/watch?v=nkNhSPxFsnY)<br>
 [Ralph C. Merkle patent US4309569A](https://patentimages.storage.googleapis.com/69/ab/d9/2ff9f94fada6ea/US4309569.pdf)<br>
-
+[GBTC: grayscale-bitcoin-trust- has 0.1% of all Bitcoins](https://www.investors.com/research/gbtc-stock-is-grayscale-bitcoin-trust-a-buy-now/)<br>
 
 
