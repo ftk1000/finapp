@@ -16,6 +16,10 @@ Andrei Jikh
 [Andrei Jikh 2020.05.11: The Stock Market Is About To Explode - Fed Negative Interest Rates](https://www.youtube.com/watch?v=NC6DTvdplOs)<br>
 [Andrei Jikh 2020.06.01: 7 Best Stocks For Passive Income (On Robinhood)](https://www.youtube.com/watch?v=PUQsxWDhNyc)<br>
 [Andrei Jikh 2020.06.05: Lost 200k in bitcoins](https://www.youtube.com/watch?v=6rXwXZ7vBzw)<br>
+[Andrei Jikh 2020.06.15: A WARNING To All Investors (NEW Policy Changes)](https://www.youtube.com/watch?v=t0yaqQuBpMo#action=share)<br>
+[]()<br>
+[]()<br>
+[]()<br>
 
 
 [https://data.bls.gov/cgi-bin/cpicalc.pl](https://data.bls.gov/cgi-bin/cpicalc.pl)<br>
