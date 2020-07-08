@@ -5,6 +5,14 @@ push an existing repository from the command line
 
 [dividend_history](https://www.streetinsider.com/dividend_history.php?q=intc)<br>
 
+
+[scrape-yahoo-finance-stock-market-data](https://www.scrapehero.com/scrape-yahoo-finance-stock-market-data/)<br>
+[]()<br>
+[]()<br>
+[]()<br>
+
+==============
+
 Andrei Jikh 
 
 [https://www.simplysafedividends.com/](https://www.simplysafedividends.com/)<br>
