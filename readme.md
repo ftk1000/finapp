@@ -47,6 +47,7 @@ Andrei Jikh
 
 SMART PEOPLE
 
+[BridgeWater: how to manage money in 0-int rate env](https://www.youtube.com/watch?v=KWlu2nSLhxQ&feature=emb_rel_pause)<br>
 [YT 2020.05: The Stock Market or The Economy: Which Is Right?](https://youtu.be/rxwSPfWMzew)<br>
 [YT 2015: Interview with Carl Icahn](https://youtu.be/GsN0WVLjpcs)<br>
 
