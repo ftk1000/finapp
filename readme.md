@@ -14,7 +14,7 @@ push an existing repository from the command line
 [treasury-etfs](https://www.etf.com/channels/treasury-etfs)<br>
 
 [stockrover.com](https://www.stockrover.com)<br>
-[dividendchannel.com/drip-returns-calculator](https://www.dividendchannel.com/drip-returns-calculator)<br
+[dividendchannel.com/drip-returns-calculator](https://www.dividendchannel.com/drip-returns-calculator)<br>
 [etfreplay.com/charts.aspx](https://www.etfreplay.com/charts.aspx)<br>
 []()<br>
 []()<br>
