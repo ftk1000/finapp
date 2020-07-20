@@ -1,9 +1,7 @@
     Я использую https://www.etf.com/channels/ для нахождения подходящих ETFов. 
-    Там приведены подборки ETFов для разных секторов.  
-    Я примерно понимаю какие секторы мне интересны. 
-    Далее я прохожусь по всем интересующим секторам. 
+    Там приведены подборки ETFов для разных секторов. Я примерно понимаю какие секторы мне интересны. Далее я прохожусь по всем интересующим секторам. 
     Смотрю состав ETFов, стратегию управления, expense ratio, доходность и т.д.  По сути вся эта информация есть на этом сайте.
-    Например,<br>
+    Например,
 [www.etf.com/channels/ ](https://www.etf.com/channels/)<br>
 [technology-etfs](https://www.etf.com/channels/technology-etfs)<br>
 [investment-grade-bonds-etfs](https://www.etf.com/channels/investment-grade-bonds)<br>
