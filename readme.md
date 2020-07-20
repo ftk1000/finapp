@@ -9,9 +9,9 @@ push an existing repository from the command line
 [scrape-yahoo-finance-stock-market-data](https://www.scrapehero.com/scrape-yahoo-finance-stock-market-data/)<br>
 
 [www.etf.com/channels/ ](https://www.etf.com/channels/)<br>
-[technology-etfs](https://www.etf.com/channels/technology-etfs)<br>
-[investment-grade-bonds-etfs](https://www.etf.com/channels/investment-grade-bonds)<br>
-[treasury-etfs](https://www.etf.com/channels/treasury-etfs)<br>
+* [technology-etfs](https://www.etf.com/channels/technology-etfs)<br>
+* [investment-grade-bonds-etfs](https://www.etf.com/channels/investment-grade-bonds)<br>
+* [treasury-etfs](https://www.etf.com/channels/treasury-etfs)<br>
 
 [stockrover.com](https://www.stockrover.com)<br>
 [dividendchannel.com/drip-returns-calculator](https://www.dividendchannel.com/drip-returns-calculator)<br>
