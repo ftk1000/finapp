@@ -4,7 +4,6 @@
 Далее я прохожусь по всем интересующим секторам. 
 Смотрю состав ETFов, стратегию управления, expense ratio, доходность и т.д.  По сути вся эта информация есть на этом сайте.
 Например,
-
 [www.etf.com/channels/ ](https://www.etf.com/channels/)<br>
 [technology-etfs](https://www.etf.com/channels/technology-etfs)<br>
 [investment-grade-bonds-etfs](https://www.etf.com/channels/investment-grade-bonds)<br>
@@ -14,12 +13,9 @@ Treasuries я выбирал с минимально возможным expense 
 Для бондов тоже в целом expense ratios нормальные (учитывая что JNK - это High Yield Bonds и они подбираются управляющей компанией в ручную). 
 
 
-Для доходности я строю графики в  stockrover.com, dividendchannel.com/drip-returns-calculator или etfreplay.com/charts.aspx где сравниваю ETFы между собой. 
-
+Для доходности я строю графики в  stockrover.com, https://www.dividendchannel.com/drip-returns-calculator или https://www.etfreplay.com/charts.aspx где сравниваю ETFы между собой. 
 [stockrover.com](https://www.stockrover.com)<br>
-
 [dividendchannel.com/drip-returns-calculator](https://www.dividendchannel.com/drip-returns-calculator)<br>
-
 [etfreplay.com/charts.aspx](https://www.etfreplay.com/charts.aspx)<br>
 
 
