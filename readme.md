@@ -5,6 +5,8 @@ push an existing repository from the command line
   
 =============  
 
+[BAR,VOO,BND,T,XOM,VDE,,qqq,qqew,VGT,AMZN,GOOG,MSFT,AAPL,NFLX,XBI,SLV](https://finance.yahoo.com/quotes/BAR,VOO,BND,T,XOM,VDE,,qqq,qqew,VGT,AMZN,GOOG,MSFT,AAPL,NFLX,XBI,SLV/view/v1)<br>
+
 [dividend_history](https://www.streetinsider.com/dividend_history.php?q=intc)<br>
 [scrape-yahoo-finance-stock-market-data](https://www.scrapehero.com/scrape-yahoo-finance-stock-market-data/)<br>
 
