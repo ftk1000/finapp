@@ -7,7 +7,8 @@ push an existing repository from the command line
 
 [BAR,GOLD,SLV,VOO,BND,T,XOM,VDE,,qqq,qqew,VGT,AMZN,GOOG,MSFT,AAPL,NFLX,XBI](https://finance.yahoo.com/quotes/BAR,GOLD,SLV,VOO,BND,T,XOM,VDE,,qqq,qqew,VGT,AMZN,GOOG,MSFT,AAPL,NFLX,XBI/view/v1)<br>
 
-[dividend_history](https://www.streetinsider.com/dividend_history.php?q=intc)<br>
+[2020.08 Daniel Pronk YV: 3 BEST DIVIDEND Stocks To Buy And Hold (JPM:3.4%, REI-UN.TO:9%, BEP:3.8%)](https://www.youtube.com/watch?v=104d70xxnW0)<br>
+[See dividend_history](https://www.streetinsider.com/dividend_history.php?q=intc)<br>
 [scrape-yahoo-finance-stock-market-data](https://www.scrapehero.com/scrape-yahoo-finance-stock-market-data/)<br>
 
 [www.etf.com/channels/ ](https://www.etf.com/channels/)<br>
