@@ -1,7 +1,13 @@
 1. 2020.09.08
 investigate how much revenue each customer will bring?
 REF:
+
 https://www.kaggle.com/jpmiller/finding-patterns-in-the-scored-targets
+(The objective of this notebook is to look for patterns across the 206 scored targets. 
+It might be possible to find patterns that trace back to features and give 
+some incremental reduction in logloss.)
+
+DATA from:
 https://www.kaggle.com/c/ga-customer-revenue-prediction
 https://www.kaggle.com/c/lish-moa
 
