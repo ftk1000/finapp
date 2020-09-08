@@ -3,6 +3,7 @@ investigate how much revenue each customer will bring?
 REF:
 
 https://www.kaggle.com/jpmiller/finding-patterns-in-the-scored-targets
+https://www.kaggle.com/zurman/finding-patterns-in-the-scored-targets/edit
 (The objective of this notebook is to look for patterns across the 206 scored targets. 
 It might be possible to find patterns that trace back to features and give 
 some incremental reduction in logloss.)
