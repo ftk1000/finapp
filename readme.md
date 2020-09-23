@@ -36,6 +36,7 @@ Andrei Jikh
 * if you miss 6 of those 10 biggest days, you will miss 50% of returns
 * those biggest returns typically happen withing two week of the WORST 10 days
 * Bottom Line: if you try to time the market, you will miss the RECOVERY TRAIN and miss 50%+ of gains
+
 [Andrei Jikh 2020.03.30: how to invest in gold])(https://www.youtube.com/watch?v=y6o6B0QkHbI)<br>
 [Andrei Jikh 2020.04.24:  MASSIVE CRASH AHEAD | How To Invest Now](https://www.youtube.com/watch?v=92wenJfjBDY&feature=youtu.be)<br>
 [Andrei Jikh 2020.05.04: Are Dividends Going Away? (Passive Income Update!)](https://www.youtube.com/watch?v=AynS46MX3z8)<<br>
