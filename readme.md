@@ -32,12 +32,12 @@ Andrei Jikh
 
 [Andrei Jikh 2020.02.21: How To Become A Millionaire In ONE Year (My Plan)](https://www.youtube.com/watch?v=IoOgnnX_p10)<br>
 [Andrei Jikh 2020.02.28: How NOT To Invest - Advice for Beginners](https://www.youtube.com/watch?v=uB6guymgX3w)<br>
-* 12:15: BEST RETURNSin 10 day window
+* 12:15: BEST RETURNS happen in 10 day window
 * if you miss 6 of those 10 biggest days, you will miss 50% of returns
 * those biggest returns typically happen withing two week of the WORST 10 days
 * Bottom Line: if you try to time the market, you will miss the RECOVERY TRAIN and miss 50%+ of gains
 
-[Andrei Jikh 2020.03.30: how to invest in gold])(https://www.youtube.com/watch?v=y6o6B0QkHbI)<br>
+[Andrei Jikh 2020.03.30: how to invest in gold](https://www.youtube.com/watch?v=y6o6B0QkHbI)<br>
 [Andrei Jikh 2020.04.24:  MASSIVE CRASH AHEAD | How To Invest Now](https://www.youtube.com/watch?v=92wenJfjBDY&feature=youtu.be)<br>
 [Andrei Jikh 2020.05.04: Are Dividends Going Away? (Passive Income Update!)](https://www.youtube.com/watch?v=AynS46MX3z8)<<br>
 [Andrei Jikh 2020.05.11: The Stock Market Is About To Explode - Fed Negative Interest Rates](https://www.youtube.com/watch?v=NC6DTvdplOs)<br>
