@@ -44,7 +44,7 @@ Andrei Jikh
 [Andrei Jikh 2020.06.01: 7 Best Stocks For Passive Income (On Robinhood)](https://www.youtube.com/watch?v=PUQsxWDhNyc)<br>
 [Andrei Jikh 2020.06.05: Lost 200k in bitcoins](https://www.youtube.com/watch?v=6rXwXZ7vBzw)<br>
 [Andrei Jikh 2020.06.15: A WARNING To All Investors (NEW Policy Changes)](https://www.youtube.com/watch?v=t0yaqQuBpMo#action=share)<br>
-[]()<br>
+[Andrei Jikh 2020.10.12: BREAKING - Robinhood Funds Stolen](https://users.mccme.ru/akopyan/papers/RuGeoFigures.pdf)<br>
 []()<br>
 []()<br>
 
