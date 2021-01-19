@@ -4,8 +4,9 @@
 []()<br>
 []()<br>
 []()<br>
-[]()<br>
 
+
+* [Exp Ratio Fee calculator](https://www.nerdwallet.com/blog/investing/typical-mutual-fund-expense-ratios/#:~:text=An%20expense%20ratio%20is%20an,year%20for%20every%20%241%2C000%20invested.)<br>
 
 
 push an existing repository from the command line
