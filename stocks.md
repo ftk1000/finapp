@@ -30,16 +30,21 @@ Solar Energy BIG CHART</A>] |<br>
 []()<br>
 []()<br>
 
-### [3 Dividend ETFs for a Retiree](https://www.fool.com/investing/2021/01/31/these-3-dividend-etfs-are-a-retirees-best-friend/)<br>
-* VYM - ER=0.06% - Yield=3.1%<br>
+### [Dividend ETFs for Retirees  (as of 2021.02.02)](https://www.fool.com/investing/2021/01/31/these-3-dividend-etfs-are-a-retirees-best-friend/)<br>
+* [BND,JNK,VYM,NOBL,IDV,VOO](https://finance.yahoo.com/quotes/BND,JNK,VYM,NOBL,IDV,VOO/view/v1)<br>
+
+* BND  - ER=0.04% - Yield=2.22% - MC=303B - Beta=1.03 <br>
+Vanguard Total Bond Market Index Fund ETF Shares (BND)<br>
+* JNK  - ER=0.40% - Yield=5.13% - MC=12B - Beta=0.62 <br>
+SPDR Bloomberg Barclays High Yield Bond ETF (JNK)<br>
+* VYM - ER=0.06% - Yield=3.18% - MC=40B - Beta=0.92 <br> 
   The Vanguard High Dividend Yield ETF (NYSEMKT:VYM) contains *primarily U.S.-based corporations* that have generally both *grown their stock price and sustained high dividends*. The fund pays just over 3.1% and boasts a measly 0.06% expense ratio. While this ETF is still a pure stock fund exposed to broad equity market risk, it has an underlying portfolio that has been quite dependable as a long-term investment. A retiree seeking dividend income in addition to solid capital gain potential should consider this fund without much reservation.<br>
-* NOBL - ER=0.35% - Yield=2.7%<br>
+* NOBL - ER=0.35% - Yield=2.14% - MC= 7B - Beta=0.91<br>
   ProShares S&P 500 Dividend Aristocrats ETF (NOBL). 
 Similar to VYM, the ProShares S&P 500 Dividend Aristocrats ETF (NYSEMKT:NOBL) boasts a *reputable underlying portfolio of companies*. In this fund, however, the portfolio companies not only pay solid dividends -- with the ETF yielding 2.7% -- but they have also *grown their dividends for at least 25 years* -- with some doing it for over 40 years. The *expense ratio is a bit higher at 0.35%*, but for convenience, simplicity, and quality, the purchase can be justified. This fund can work for retirees seeking supplemental income and for those wanting exposure to *companies with unusually strong fundamentals*. 
-* IDV - ER=0.49% - Yield=5%<br>
+* IDV - ER=0.49% - Yield=5.44% - MC=4B - Beta=1.14 <br>
    iShares International Select Dividend ETF (IDV)
 For those seeking an "ex-U.S." dividend fund, the iShares International Select Dividend ETF (NYSEMKT:IDV) provides exposure to *high-dividend companies stationed anywhere other than the United States*. The fund *is not the cheapest* you'll find with an expense ratio of 0.49%, but it does provide *diversified income from developed international markets* at an attractive yield of approximately 5%. This ETF can work if you're willing to *commit to holding it through its inevitable ups and downs*, and if you're willing to *pay a premium for larger cash payouts*.<br>
-
 
 [2020.08 Daniel Pronk YV: 3 BEST DIVIDEND Stocks To Buy And Hold (JPM:3.4%, REI-UN.TO:9%, BEP:3.8%)](https://www.youtube.com/watch?v=104d70xxnW0)<br>
 [See dividend_history](https://www.streetinsider.com/dividend_history.php?q=intc)<br>
