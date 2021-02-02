@@ -31,8 +31,9 @@ push an existing repository from the command line
 []()<br>
 
 ==============
-* [Andrei Jikh](Andrei_Jikh.md) <br>
- ** [Advice for Beginners](https://www.youtube.com/watch?v=uB6guymgX3w)<br>
+#### [Andrei Jikh](Andrei_Jikh.md) <br>
+ * [Advice for Beginners](https://www.youtube.com/watch?v=uB6guymgX3w)<br>
+ 
           * 12:15: BEST RETURNS happen in 10 day window
           * if you miss 6 of those 10 biggest days, you will miss 50% of returns
           * those biggest returns typically happen withing two week of the WORST 10 days
