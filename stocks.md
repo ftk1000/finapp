@@ -1,3 +1,20 @@
+# Dividend stocks
+* The **ex-dividend date** for stocks is usually set one business day before the record date. If you purchase a stock on its ex-dividend date or after, you will not receive the next dividend payment. Instead, the seller gets the dividend. If you purchase before the ex-dividend date, you get the dividend.<br>
+
+* [MO P=42.47, MC=79B, Y=8.10%, Dt=2021.02.07, ExDD=2020.12.24, yTr=48.80, Altria Group, Inc.](https://finance.yahoo.com/quote/PM?p=PM&.tsrc=fin-srch)<br>
+* [PM P=84.28, MC=131, Y=5.70%, Dt=2021.02.07, ExDD=2020.12.22, yTr=94.54,  Philip Morris International Inc.](https://finance.yahoo.com/quote/PM?p=PM&.tsrc=fin-srch)<br>
+* [JNJ P=164.45, MC=433, Y=2.46%, Dt=2021.02.07, ExDD=2021.02.21, yTr=185.44, Johnson & Johnson (JNJ)](https://finance.yahoo.com/quote/JNJ?p=JNJ&.tsrc=fin-srch)<br>
+* [MRK P=75.8, MC=192B, Y=3.43%, Dt=2021.02.07, ExDD=2021.04.29, yTr=96.52, Merck & Co., Inc. (MRK)](https://finance.yahoo.com/quote/MRK?p=MRK&.tsrc=fin-srch)<br>
+* [PFE P=34.92, MC=194, Y=4.47%, Dt=2021.02.07, ExDD=2021.01.28, yTr-41,14, Pfizer Inc](https://finance.yahoo.com/quote/PFE?p=PFE&.tsrc=fin-srch)<br>
+* []()<br>
+
+# Growth stocks
+* []()<br>
+* []()<br>
+* []()<br>
+* []()<br>
+* []()<br>
+
 # Stocks
 
 [BAR,GOLD,SLV,VOO,BND,T,XOM,VDE,ARKW,qqq,qqew,VGT,AMZN,GOOG,MSFT,AAPL,NFLX,XBI](https://finance.yahoo.com/quotes/BAR,GOLD,SLV,VOO,BND,T,XOM,VDE,ARKW,qqq,qqew,VGT,AMZN,GOOG,MSFT,AAPL,NFLX,XBI/view/v1)<br>
