@@ -9,8 +9,8 @@
 * []()<br>
 
 # Growth stocks
-* []()<br>
-* []()<br>
+* [AMZN P=3352.15, MC=1688B, Y=0%, Dt2021.02.07, ExDD=NA, yTr=4000 Amazon.com, Inc.](https://finance.yahoo.com/quote/AMZN?p=AMZN&.tsrc=fin-srch)<br>
+* [AAPL P=136.76, MC=2296B, Y=0.60%, Dt=2021.02.07, ExDD=2021.02.05, yTr=151, Apple Inc](https://finance.yahoo.com/quote/AAPL?p=AAPL&.tsrc=fin-srch)<br>
 * []()<br>
 * []()<br>
 * []()<br>
