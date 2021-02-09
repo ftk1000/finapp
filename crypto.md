@@ -22,7 +22,10 @@
 []()<br>
 []()<br>
 []()<br>
-[]()<br>
+
+# GOLD
+
+[2021.02.09: Forbes: Barrick Gold Stock Drops 24% In 3 Months – Patient Investors Will Benefit](https://www.forbes.com/sites/greatspeculations/2021/02/09/barrick-gold-stock-drops-24-in-3-months--patient-investors-will-benefit/?sh=2c6b87f22ca0)<br>
 []()<br>
 []()<br>
 []()<br>
