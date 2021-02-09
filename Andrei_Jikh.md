@@ -1,8 +1,14 @@
 Andrei Jikh 
-
 [https://www.simplysafedividends.com/](https://www.simplysafedividends.com/)<br>
 [2020:01.02: businessinsider: $100,000 in his first year from YouTube](https://www.businessinsider.com/how-much-money-youtube-pays-creators-views-per-month-year-2019-12)<br>
 
+
+[2020.08: AJ: Passive Income: The EASIEST Way To Make $100 Per Day](https://www.youtube.com/watch?v=iVshpgUzHoc)<br>
+
+     - safety
+     - clean
+     - location
+     
 [Andrei Jikh 2020.02.21: How To Become A Millionaire In ONE Year (My Plan)](https://www.youtube.com/watch?v=IoOgnnX_p10)<br>
 [Andrei Jikh 2020.02.28: How NOT To Invest - Advice for Beginners](https://www.youtube.com/watch?v=uB6guymgX3w)<br>
 * 12:15: BEST RETURNS happen in 10 day window
