@@ -3,12 +3,15 @@
 * VFIAX - ER=0.04% - Yield=1.55% - MC=631B - Beta=1.00 - Vanguard Fund SP500 <br>
 * VOO   - ER=0.03% - Yield=1.56% - MC=631B - Beta=1.00 - Vanguard Fund SP500 <br>
 <br>
+
 * VTSAX - ER=0.04% - Yield=1.42% - MC=1.1T - Beta=1.05 - Vanguard Total Stock Market Index Fund Admiral Shares <br>
 * VTI   - ER=0.03% - Yield=1.42% - MC=1.1T - Beta=1.04 - Vanguard Total Stock Market Index Fund ETF (ENTIRE US stock market)
 <br>
+
 * SWPPX - ER=0.02% - Yield=1.83% - MC= 51B - Beta=1.00 - Charles Schwab SP500 Fund<br>
 * SWTSX - ER=0.03% - Yield=1.63% - MC= 14B - Beta=1.05 -  Schwab Total Stock Market Index Fund
 <br>
+
 * FZILX  - ER=0 - Yield=1.64% - MC=  2B - Beta=NA - Fidelity ZERO International Index Fund <br>
 * FZROX  - ER=0 - Yield=1.27% - MC=7.5B - Beta=NA - Fidelity ZERO Total Market Index Fund <br>
 * FNILX  - ER=0 - Yield=1.20% - MC=  3B - Beta=NA - Fidelity ZERO Large Cap Index Fund <br>
