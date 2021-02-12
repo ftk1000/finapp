@@ -10,11 +10,16 @@
 
 [2021.02.08: A.Jikh: Tesla & Elon Musk Buy Bitcoin - GAME OVER](https://www.youtube.com/watch?v=KjO5tiZneEE)<br>
 
+[2021.01.15: A.Jikh: Best Time To Buy Bitcoin (Price Guide)](https://youtu.be/fhv67YhXqvg)<br>
+          
+          * value of all cryptocurrencies is now over 1 T
+          * bitcoing is the 5th most valuable currency in the world
+          
 [2020.01: A.Jikh: I lost $200M in Bitcoin](https://www.youtube.com/watch?v=6rXwXZ7vBzw)<br>
 * Mt. Dox scam: The task force concluded that Mt. Gox had been hacked by an outsider who had siphoned off more than 600,000 bitcoins in a period between 2011 and late 2013. It was able to trace the bulk of stolen bitcoins to one individual, a Russian bitcoin exchange operator named Alexander Vinnik<br>
 
 
-[]()<br>
+
 []()<br>
 []()<br>
 []()<br>
