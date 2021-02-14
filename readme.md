@@ -10,7 +10,9 @@
      - Schwab and Fidelity offer active trader tools. Vanguard does not.
      - Schwab is public (SCHW), Fidelity is privately owned, Vanguard - investor owned
     
-
+* [YT Dec 18, 2020: Cathie Wood Sees 20% Returns After 'Unbelievable' 2020](https://www.youtube.com/watch?v=kfhgbZBWgBE)
+     - Corona Virus has created lots of problems
+     
 
 * [Exp Ratio Fee calculator](https://www.nerdwallet.com/blog/investing/typical-mutual-fund-expense-ratios/#:~:text=An%20expense%20ratio%20is%20an,year%20for%20every%20%241%2C000%20invested.)<br>
 
