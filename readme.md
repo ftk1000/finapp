@@ -6,6 +6,12 @@
 []()<br>
 
 
+* [2020: Jake Broe YT: Schwab vs Fidelity vs Vanguard (DETAILED REVIEW)](https://www.youtube.com/watch?v=rAewPVEjeLM)
+     - Schwab and Fidelity offer active trader tools. Vamguard does not.
+     - Schwab is public (SCHW), Fidelity is privately owned, Vanguard - investor owned
+    
+
+
 * [Exp Ratio Fee calculator](https://www.nerdwallet.com/blog/investing/typical-mutual-fund-expense-ratios/#:~:text=An%20expense%20ratio%20is%20an,year%20for%20every%20%241%2C000%20invested.)<br>
 
 
