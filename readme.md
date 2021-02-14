@@ -7,7 +7,7 @@
 
 
 * [2020: Jake Broe YT: Schwab vs Fidelity vs Vanguard (DETAILED REVIEW)](https://www.youtube.com/watch?v=rAewPVEjeLM)
-     - Schwab and Fidelity offer active trader tools. Vamguard does not.
+     - Schwab and Fidelity offer active trader tools. Vanguard does not.
      - Schwab is public (SCHW), Fidelity is privately owned, Vanguard - investor owned
     
 
