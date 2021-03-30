@@ -2,9 +2,9 @@ Andrei Jikh
 [https://www.simplysafedividends.com/](https://www.simplysafedividends.com/)<br>
 
 [2021.03.21: Why I Quit Dividend Investing](https://www.youtube.com/watch?v=ATVOakZhDUU)<br>
-       * income exceeded $441,451/yr and he pays 20% tax on dividend income ==> growth is better
-       * keep div portfolio
-       * growth: VTI, VOO
+       * income exceeded $441,451/yr and he pays 20% tax on dividend income ==> growth is better<br>
+       * keep div portfolio<br>
+       * growth: VTI, VOO<br>
 
 [2020:01.02: businessinsider: $100,000 in his first year from YouTube](https://www.businessinsider.com/how-much-money-youtube-pays-creators-views-per-month-year-2019-12)<br>
 
