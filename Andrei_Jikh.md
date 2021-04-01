@@ -1,6 +1,11 @@
 Andrei Jikh 
 [https://www.simplysafedividends.com/](https://www.simplysafedividends.com/)<br>
 
+
+[2021.03.21: BEST MONTH/DAY TO BUY STOCKS](https://www.youtube.com/watch?v=Zl8_9NWyfqs)<br>
+       * January effect 
+       * Monday effect 
+       *
 [2021.03.21: Why I Quit Dividend Investing](https://www.youtube.com/watch?v=ATVOakZhDUU)<br>
        * income exceeded $441,451/yr and he pays 20% tax on dividend income ==> growth is better<br>
        * keep div portfolio<br>
