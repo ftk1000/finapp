@@ -3,13 +3,15 @@ Andrei Jikh
 
 
 [2021.03.21: BEST MONTH/DAY TO BUY STOCKS](https://www.youtube.com/watch?v=Zl8_9NWyfqs)<br>
+
        * January effect 
        * Monday effect 
-       *
+       
 [2021.03.21: Why I Quit Dividend Investing](https://www.youtube.com/watch?v=ATVOakZhDUU)<br>
-       * income exceeded $441,451/yr and he pays 20% tax on dividend income ==> growth is better<br>
-       * keep div portfolio<br>
-       * growth: VTI, VOO<br>
+
+       * income exceeded $441,451/yr and he pays 20% tax on dividend income ==> growth is better
+       * keep div portfolio
+       * growth: VTI, VOO
 
 [2020:01.02: businessinsider: $100,000 in his first year from YouTube](https://www.businessinsider.com/how-much-money-youtube-pays-creators-views-per-month-year-2019-12)<br>
 
