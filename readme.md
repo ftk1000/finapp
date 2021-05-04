@@ -11,7 +11,7 @@
 # ML in Finance
 
 [Machine Learning Financial Laboratory (MlFinLab)](https://github.com/hudson-and-thames/mlfinlab)<br>
-[https://youtu.be/xfzGZB4HhEE](YT: Algorithmic Trading Using Python - Full Course)<br>
+[2020 YT: Mick McCullum: Algorithmic Trading Using Python - Full Course](https://youtu.be/xfzGZB4HhEE)<br>
 []()<br>
 []()<br>
 
