@@ -1,5 +1,12 @@
 # Real Estate
 
+* [reventureconsulting.com/](https://reventureconsulting.com/)
+
+
+* [Real Estate 2021: The MYTH of the US Housing Shortage](https://www.youtube.com/watch?v=97DW-V8_9Lo)
+
+* []()
+
 * [A.Jikh: 2020.12: REAL ESTATE CRASH OF 2021 - My Thoughts](https://youtu.be/0-23mqUNm_I)<br>
      - CONTINUE FROM 2:00
      - Ken McElroy
