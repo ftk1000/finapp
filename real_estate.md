@@ -1,6 +1,10 @@
 # Real Estate
 
-* [reventureconsulting.com/](https://reventureconsulting.com/)
+* [reventureconsulting.com/](https://reventureconsulting.com/) DATA SOURCES
+     
+          Home Price Data: Zillow ZHVI
+          Permitting Data: US Census Bureau
+          Jobs Data: Bureau of Labor Statistics
 
 * [The 5 Best Cities for Real Estate in 2021](https://www.youtube.com/watch?v=Qp5uCLFjTn8)
 
