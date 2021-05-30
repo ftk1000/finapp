@@ -2,7 +2,14 @@
 
 * [reventureconsulting.com/](https://reventureconsulting.com/)
 
+* [The 5 Best Cities for Real Estate in 2021](https://www.youtube.com/watch?v=Qp5uCLFjTn8)
 
+     wholly trinity: (1) Good job growth and population growth,
+     (2) security
+     (3) housing shortage
+     
+- [Denver, CO - major housing shortage](https://youtu.be/Qp5uCLFjTn8?t=250)
+     
 * [Real Estate 2021: The MYTH of the US Housing Shortage](https://www.youtube.com/watch?v=97DW-V8_9Lo)
 
       8:05 Equilibrium Level of Homes
