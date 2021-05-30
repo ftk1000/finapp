@@ -2,9 +2,11 @@
 
 * [reventureconsulting.com/](https://reventureconsulting.com/) DATA SOURCES
      
-          Home Price Data: Zillow ZHVI
-          Permitting Data: US Census Bureau
+   -- [Home Price Data: Zillow ZHVI](https://www.zillow.com/research/data)
+   -- [Permitting Data: US Census Bureau](https://www.census.gov/construction/bps/msamonthly.html)
           Jobs Data: Bureau of Labor Statistics
+
+* [2001-7 home price growth vs 2008-12](https://reventureconsulting.com/best-value-cities-in-the-2021-real-estate-bubble/)
 
 * [The 5 Best Cities for Real Estate in 2021](https://www.youtube.com/watch?v=Qp5uCLFjTn8)
 
