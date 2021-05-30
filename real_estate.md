@@ -9,6 +9,8 @@
      (3) housing shortage
      
   -- [Denver, CO - major housing shortage](https://youtu.be/Qp5uCLFjTn8?t=250)
+  -- [Chattanooga, TN](https://youtu.be/Qp5uCLFjTn8?t=481)
+  -- []
      
 * [Real Estate 2021: The MYTH of the US Housing Shortage](https://www.youtube.com/watch?v=97DW-V8_9Lo)
 
