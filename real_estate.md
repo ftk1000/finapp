@@ -5,6 +5,8 @@
 
 * [Real Estate 2021: The MYTH of the US Housing Shortage](https://www.youtube.com/watch?v=97DW-V8_9Lo)
 
+      8:05 Equilibrium Level of Homes
+
 * []()
 
 * [A.Jikh: 2020.12: REAL ESTATE CRASH OF 2021 - My Thoughts](https://youtu.be/0-23mqUNm_I)<br>
