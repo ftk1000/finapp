@@ -13,7 +13,24 @@
 [Machine Learning Financial Laboratory (MlFinLab)](https://github.com/hudson-and-thames/mlfinlab)<br>
 [2020 YT: Mick McCullum: Algorithmic Trading Using Python - Full Course](https://youtu.be/xfzGZB4HhEE)<br>
 []()<br>
+
 []()<br>
+
+## Investing
+* [2021: fartuk: Мои machine learning тулы для инвестирования](https://habr.com/ru/company/ods/blog/548788/)
+
+* [2021: fartuk: инструменты для выбора бумаг  github.com/fartuk/ml_investment](https://github.com/fartuk/ml_investment)
+* [fattakhov_artur: Machine learning investment tools: http://fattakhov.site/](http://fattakhov.site/)
+
+* [2021: fartuk: Создание и балансировка инвестиционного портфеля с помощью ML](https://habr.com/ru/company/ods/blog/560312/)
+
+			у меня нет цели зарабатывать на спекуляциях и краткосрочных сделках, я лишь хочу распределять свои деньги по активам, понимая при этом, какие есть риски и перспективы, чего вообще можно ожидать от собранного портфеля с течением времени. В данной статье я хочу рассмотреть часть данного распределения, затрагивающую только акции американских компаний.
+ 
+* [fattakhov_artur: Tinkoff Pulse](https://www.tinkoff.ru/invest/social/profile/fattakhov_artur/?utm_source=share)
+* []()
+* [Артём Бакулин abak (ПУБЛИКАЦИИ 9; КОММЕНТАРИИ 74)](https://habr.com/ru/users/abak/posts/)
+* []()
+* []()
 
 
 * [2020: Jake Broe YT: Schwab vs Fidelity vs Vanguard (DETAILED REVIEW)](https://www.youtube.com/watch?v=rAewPVEjeLM)
