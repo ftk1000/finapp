@@ -3,8 +3,22 @@
 * [https://www.defensivedriving.com/contact-us/](https://www.defensivedriving.com/contact-us/)<br>
 * []()<br>
 * []()<br>
+* []()<br>
+
+
+
+# RE - a BIG PROBLEM
+
+* [2021.06.16: cnn.com: The housing market is so hot buyers are paying $1 million over asking price](https://www.cnn.com/2021/06/16/homes/us-housing-market-offers/index.html)<br>
 * [2021.06.19:cnn.com: The housing market is on fire. The Fed keeps adding gasoline](https://www.cnn.com/2021/06/19/business/inflation-housing-market-federal-reserve/index.html)<br>
-* 
+
+          Despite surging home prices that are rising at the fastest pace on record, the Federal Reserve continues 
+	  to prop up the housing market by purchasing $40 billion of mortgage bonds each month.
+* []()<br>
+* []()<br>
+* []()<br>
+* []()<br>
+
 
 
 
