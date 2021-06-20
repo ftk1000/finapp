@@ -3,7 +3,7 @@
 * [https://www.defensivedriving.com/contact-us/](https://www.defensivedriving.com/contact-us/)<br>
 * []()<br>
 * []()<br>
-* []()<br>
+* [2021.06.19:cnn.com: The housing market is on fire. The Fed keeps adding gasoline](https://www.cnn.com/2021/06/19/business/inflation-housing-market-federal-reserve/index.html)<br>
 * 
 
 
@@ -12,6 +12,9 @@
 
 [Machine Learning Financial Laboratory (MlFinLab)](https://github.com/hudson-and-thames/mlfinlab)<br>
 [2020 YT: Mick McCullum: Algorithmic Trading Using Python - Full Course](https://youtu.be/xfzGZB4HhEE)<br>
+[2017: "Basic Statistical Arbitrage: Understanding the Math Behind Pairs Trading" by Max Margenot](https://www.youtube.com/watch?v=g-qvFjvyqcs)<br>
+[]()<br>
+[]()<br>
 []()<br>
 
 []()<br>
